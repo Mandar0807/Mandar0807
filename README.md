@@ -9,7 +9,7 @@
 - 🔭 Building projects at the intersection of AI, security, and full-stack
 - 📖 Currently studying OS internals, computer networks & algorithms
 - 💼 Open to internship opportunities in SWE / AI / ML
-- ✉️ <p color="white">mandarchinnapurkar@gmail.com</p>
+- ✉️ mandarchinnapurkar@gmail.com
 
 ---
 
