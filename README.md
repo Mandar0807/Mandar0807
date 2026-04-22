@@ -9,7 +9,7 @@
 - 🔭 Building projects at the intersection of AI, security, and full-stack
 - 📖 Currently studying OS internals, computer networks & algorithms
 - 💼 Open to internship opportunities in SWE / AI / ML
-- ✉️ mandar.chinnapurkar23@vit.edu
+- ✉️ mandarchinnapurkar@gmail.com
 
 ---
 
@@ -63,4 +63,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandarchinnapurkar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mandar0807)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandar.chinnapurkar23@vit.edu)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandarchinnapurkar@gmail.com)
